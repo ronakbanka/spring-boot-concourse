@@ -1,0 +1,5 @@
+---
+applications:
+- name: demoapp
+  memory: 1G
+  timeout: 180
